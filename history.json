@@ -1,0 +1,843 @@
+{
+ "title": "The history of understanding avalanches",
+ "tagline": "From armies lost in Alpine snow to a daily bulletin for the Himalaya: how people learned why snow slides, and how to live below it.",
+ "intro": "For most of history an avalanche was a thing that simply happened. Swiss foresters began to map and count them in the nineteenth century, and a hut laboratory above Davos in the 1930s showed that the danger lies in the layers of the snow. Disasters on railways, in war and in mountain villages forced the next steps: forecasts, barriers, beacons and the hard numbers on survival. India founded its own snow laboratory at Manali in 1969, and its successor, DGRE, forecasts for the highest posts and roads on Earth.",
+ "eras": [
+  {
+   "id": "early",
+   "name": "The white death",
+   "from": -218,
+   "to": 1900,
+   "color": "#c49bff",
+   "summary": "Avalanches are feared and little understood. Swiss foresters start to map them and build the first defences."
+  },
+  {
+   "id": "war",
+   "name": "Railways, war and a snow laboratory",
+   "from": 1900,
+   "to": 1945,
+   "color": "#ffb547",
+   "summary": "Trains and armies go into avalanche country and pay heavily. Switzerland starts to study snow as a material."
+  },
+  {
+   "id": "science",
+   "name": "Forecasts, barriers and beacons",
+   "from": 1945,
+   "to": 2000,
+   "color": "#8ef0ff",
+   "summary": "Public bulletins, hazard maps, a shared danger scale, the transceiver, the airbag and the survival curve. India founds SASE."
+  },
+  {
+   "id": "today",
+   "name": "The Himalaya and the warming mountains",
+   "from": 2000,
+   "to": 2026,
+   "color": "#a3e635",
+   "summary": "Siachen, Gurez, Chamoli and Draupadi ka Danda. DGRE takes over India's forecasting, and rescue gets faster."
+  }
+ ],
+ "events": [
+  {
+   "year": -218,
+   "date": "218 BCE (attributed)",
+   "era": "early",
+   "art": "mountain",
+   "key": true,
+   "title": "Hannibal's army meets the Alpine snow",
+   "who": "Hannibal and the Carthaginian army",
+   "where": "The western Alps",
+   "country": "Italy and France",
+   "text": "Hannibal took an army with horses and elephants over the Alps in late autumn. Polybius and Livy, writing long afterwards, describe men and animals lost on steep, snow-covered ground where new snow lay on old, hard snow. Later writers read parts of this as avalanches. The ancient accounts are vague, and the route is still argued over.",
+   "why": "It is often called the first avalanche disaster on record, though the evidence is thin. The detail of fresh snow sliding on an old hard layer is exactly the problem this box explains.",
+   "box": "layers",
+   "sources": [
+    0
+   ]
+  },
+  {
+   "year": 1618,
+   "date": "4 September 1618",
+   "era": "early",
+   "art": "mountain",
+   "key": false,
+   "title": "Plurs is buried",
+   "who": "The people of Plurs (Piuro)",
+   "where": "Val Bregaglia, then part of the Three Leagues",
+   "country": "Italy",
+   "text": "The rich trading town of Plurs was wiped out in minutes when the mountainside above it gave way. Between about 1,000 and 2,500 people died. Old accounts call it an avalanche, but it was a slide of rock and earth, not of snow.",
+   "why": "It shows how loosely the word avalanche was once used. Snow avalanches, rock avalanches and landslides are different things with different causes.",
+   "sources": [
+    1
+   ]
+  },
+  {
+   "year": 1881,
+   "date": "1881",
+   "era": "early",
+   "art": "scroll",
+   "key": true,
+   "title": "The first book on avalanches",
+   "who": "Johann Coaz",
+   "where": "Bern",
+   "country": "Switzerland",
+   "text": "Johann Coaz, Switzerland's first chief forestry inspector, published Die Lawinen der Schweizeralpen, a study of the avalanches of the Swiss Alps. He mapped avalanche paths, kept statistics, and built some of the first defence walls and terraces in start zones, protected by replanted forest.",
+   "why": "Avalanches became something to map, count and engineer against, not just to fear.",
+   "box": "layers",
+   "sources": [
+    2
+   ]
+  },
+  {
+   "year": 1910,
+   "date": "1 March 1910",
+   "era": "war",
+   "art": "road",
+   "key": false,
+   "title": "Wellington: two trains swept away",
+   "who": "Passengers and crew of the Great Northern Railway",
+   "where": "Wellington, Washington",
+   "country": "USA",
+   "text": "Two trains had been stuck for days at a mountain depot by a blizzard. Then the snow turned to rain, and just after 1 a.m. a slab broke loose above them, on a slope stripped by an earlier forest fire. The trains were thrown about 45 m down into the valley. Ninety-six people died, the deadliest avalanche in United States history.",
+   "why": "Heavy snow followed by rain and warmth, on a slope with no forest: a textbook of triggers. The railway built concrete snow sheds and later a longer tunnel.",
+   "box": "triggers",
+   "sources": [
+    3
+   ]
+  },
+  {
+   "year": 1910,
+   "date": "4 March 1910",
+   "era": "war",
+   "art": "road",
+   "key": false,
+   "title": "Rogers Pass: the rescuers are buried",
+   "who": "Canadian Pacific Railway workers",
+   "where": "Rogers Pass, British Columbia",
+   "country": "Canada",
+   "text": "Three days after Wellington, a crew was clearing one avalanche from the railway at Rogers Pass when a second came down the opposite slope and buried them. Fifty-eight of the 63 men died, 32 of them Japanese labourers. It is Canada's worst avalanche disaster.",
+   "why": "A cleared avalanche path is not a safe one. The railway gave up the pass and put the line underground in the Connaught Tunnel, opened in 1916.",
+   "box": "safe",
+   "sources": [
+    4,
+    14
+   ]
+  },
+  {
+   "year": 1916,
+   "date": "13 December 1916",
+   "era": "war",
+   "art": "mountain",
+   "key": true,
+   "title": "White Friday on the Alpine front",
+   "who": "Austro-Hungarian and Italian soldiers",
+   "where": "The Dolomites",
+   "country": "Italy",
+   "text": "After weeks of heavy snow and a sudden thaw, avalanches fell across the First World War front in the Dolomites. One buried the Austro-Hungarian barracks below the Gran Poz summit of the Marmolada, killing about 270 of the men there. The total for that day and the days around it is uncertain: at least 2,000, and some estimates reach 10,000.",
+   "why": "More soldiers on the Alpine front may have died from avalanches than from gas. Armies in high mountains have had to study snow ever since.",
+   "box": "triggers",
+   "sources": [
+    5
+   ]
+  },
+  {
+   "year": 1936,
+   "date": "1931 – 1936",
+   "era": "war",
+   "art": "flask",
+   "key": true,
+   "title": "A snow laboratory on the Weissfluhjoch",
+   "who": "The Swiss Avalanche Research Commission; Robert Haefeli and colleagues",
+   "where": "Davos",
+   "country": "Switzerland",
+   "text": "Switzerland set up an Avalanche Research Commission in 1931. After first experiments in a snow hut in Davos, a wooden hut high on the Weissfluhjoch became its snow laboratory in 1936. There researchers cut samples, measured strength and watched grains change through the winter.",
+   "why": "Snow was studied as a material for the first time, which is how weak layers and their growth came to be understood.",
+   "box": "weak",
+   "sources": [
+    6
+   ]
+  },
+  {
+   "year": 1936,
+   "date": "1936",
+   "era": "war",
+   "art": "snowflake",
+   "key": false,
+   "title": "Snow Structure and Ski Fields",
+   "who": "Gerald Seligman",
+   "where": "London",
+   "country": "England",
+   "text": "The British skier and scientist Gerald Seligman published a thick book on how snow forms, changes and avalanches, based on years of observation in the Alps. It described depth hoar, wind slab and the layering of the snowpack for a general reader.",
+   "why": "It was the standard work on snow and avalanches in English for decades.",
+   "box": "weak",
+   "sources": [
+    7
+   ]
+  },
+  {
+   "year": 1942,
+   "date": "1942 – 1945",
+   "era": "war",
+   "art": "building",
+   "key": false,
+   "title": "The Swiss avalanche institute, and a public bulletin",
+   "who": "Federal Institute for Snow and Avalanche Research (SLF)",
+   "where": "Weissfluhjoch, Davos",
+   "country": "Switzerland",
+   "text": "The research station became a federal institute in 1942 and moved into its own building on the Weissfluhjoch in 1943. In 1945 it took over avalanche warning from the Swiss Army and began issuing bulletins for the public.",
+   "why": "It became the model for avalanche services round the world, including India's.",
+   "box": "safe",
+   "sources": [
+    6
+   ]
+  },
+  {
+   "year": 1951,
+   "date": "Winter of 1950 – 51",
+   "era": "science",
+   "art": "mountain",
+   "key": true,
+   "title": "The Winter of Terror",
+   "who": "The people of the Austrian and Swiss Alps",
+   "where": "The Alps",
+   "country": "Austria and Switzerland",
+   "text": "Storms dropped three to four and a half metres of snow in days. In about three months 649 avalanches were recorded and more than 265 people died, most of them in their homes. In Andermatt six avalanches came down within an hour.",
+   "why": "It led to hazard maps, zoning rules, replanted forests and thousands of steel and concrete barriers in start zones.",
+   "box": "motion",
+   "sources": [
+    8
+   ]
+  },
+  {
+   "year": 1955,
+   "date": "1955",
+   "era": "science",
+   "art": "scales",
+   "key": false,
+   "title": "Voellmy puts numbers on a moving avalanche",
+   "who": "Adolf Voellmy",
+   "where": "Zurich",
+   "country": "Switzerland",
+   "text": "After the Winter of Terror the engineer Adolf Voellmy studied the wrecked buildings and published a way to calculate an avalanche's speed and force. He treated the flow as held back by ground friction and by a drag that grows with the square of the speed.",
+   "why": "His two-part friction is still inside the software used to draw avalanche hazard maps, and inside this box.",
+   "box": "motion",
+   "sources": [
+    9
+   ]
+  },
+  {
+   "year": 1968,
+   "date": "1968",
+   "era": "science",
+   "art": "pager",
+   "key": true,
+   "title": "A radio beacon for buried people",
+   "who": "John Lawton",
+   "where": "Cornell Aeronautical Laboratory, Buffalo, New York",
+   "country": "USA",
+   "text": "John Lawton built the first effective avalanche transceiver. Each person carried a small unit sending a signal at 2.275 kHz, and a searcher switched to receive and followed the tone, which grew louder nearer the buried unit. It was sold from 1971 as the Skadi.",
+   "why": "For the first time companions could find a completely buried person in minutes instead of probing blindly.",
+   "box": "motion",
+   "sources": [
+    10
+   ]
+  },
+  {
+   "year": 1969,
+   "date": "1969",
+   "era": "science",
+   "art": "snowflake",
+   "key": true,
+   "title": "India founds its snow and avalanche laboratory",
+   "who": "Snow and Avalanche Study Establishment (SASE), DRDO",
+   "where": "Manali, Himachal Pradesh",
+   "country": "India",
+   "text": "India's defence research organisation set up the Snow and Avalanche Study Establishment at Manali to study Himalayan snow and to forecast and control avalanches for the Army's posts and roads. Its headquarters later moved to Chandigarh, with a network of mountain observatories.",
+   "why": "The Himalaya got its own avalanche science: the snow, the altitudes and the stakes are not those of the Alps.",
+   "box": "safe",
+   "sources": [
+    11,
+    12
+   ]
+  },
+  {
+   "year": 1970,
+   "date": "31 May 1970",
+   "era": "science",
+   "art": "earth",
+   "key": false,
+   "title": "Huascarán falls on Yungay",
+   "who": "The people of Yungay and Ranrahirca",
+   "where": "Ancash",
+   "country": "Peru",
+   "text": "A great earthquake shook loose a mass of rock and glacier ice from the north peak of Huascarán. It grew to tens of millions of cubic metres, travelled at well over 200 km/h and buried the town of Yungay, about 18 km away. The avalanche alone is thought to have killed around 20,000 people; counts vary widely. A smaller fall from the same face had killed about 4,000 in 1962.",
+   "why": "It is the deadliest avalanche known. Like Chamoli in 2021 it was rock and ice, not a snow slab.",
+   "box": "motion",
+   "sources": [
+    13,
+    14
+   ]
+  },
+  {
+   "year": 1979,
+   "date": "March 1979",
+   "era": "science",
+   "art": "mountain",
+   "key": false,
+   "title": "Avalanches in the Lahaul valley",
+   "who": "The people of Lahaul",
+   "where": "Lahaul, Himachal Pradesh",
+   "country": "India",
+   "text": "After exceptionally heavy snowfall a series of avalanches struck villages in the Lahaul valley. About 200 people are reported to have died. Records from the time are sparse.",
+   "why": "It is one of the worst snow avalanche disasters recorded in India, and it pushed forecasting for villages and roads as well as for the Army.",
+   "box": "safe",
+   "sources": [
+    14
+   ]
+  },
+  {
+   "year": 1985,
+   "date": "1985",
+   "era": "science",
+   "art": "person",
+   "key": false,
+   "title": "The avalanche airbag",
+   "who": "Josef Hohenester and Peter Aschauer",
+   "where": "Bavaria",
+   "country": "Germany",
+   "text": "In the 1970s the forester Josef Hohenester noticed that carrying bulky game kept him near the surface of sliding snow, and experimented with inflatable bags. Peter Aschauer bought the idea in 1980 and showed a working airbag rucksack, the ABS, at the ISPO trade fair in 1985.",
+   "why": "In a flow of mixed lumps the large ones rise. An inflated airbag makes its wearer a large lump.",
+   "box": "motion",
+   "sources": [
+    15,
+    16
+   ]
+  },
+  {
+   "year": 1986,
+   "date": "1986",
+   "era": "science",
+   "art": "sinewave",
+   "key": false,
+   "title": "One frequency for every beacon",
+   "who": "International Commission for Alpine Rescue (IKAR)",
+   "where": "The Alps",
+   "country": "International",
+   "text": "Early transceivers from different makers used different frequencies, so one brand could not find another. In 1986 the alpine rescue commission adopted 457 kHz, and it became the world standard.",
+   "why": "Any transceiver can now find any other, whoever made it.",
+   "box": "motion",
+   "sources": [
+    10
+   ]
+  },
+  {
+   "year": 1993,
+   "date": "April 1993",
+   "era": "science",
+   "art": "scales",
+   "key": false,
+   "title": "Five danger levels, one scale",
+   "who": "European Avalanche Warning Services",
+   "where": "Bavaria",
+   "country": "Europe",
+   "text": "The avalanche services of the Alpine countries agreed on one scale with five danger levels, from low to very high, built largely on Swiss wording. Before that every country, and sometimes every region, had its own.",
+   "why": "A level 3 means the same thing on both sides of a border. Five-level scales are now used worldwide, including in India's bulletin.",
+   "box": "safe",
+   "sources": [
+    17
+   ]
+  },
+  {
+   "year": 1994,
+   "date": "3 March 1994",
+   "era": "science",
+   "art": "heart",
+   "key": true,
+   "title": "The survival curve",
+   "who": "Markus Falk, Hermann Brugger and Liselotte Adler-Kastner",
+   "where": "Innsbruck and Bolzano",
+   "country": "Austria and Italy",
+   "text": "Using Swiss records of completely buried people, the team showed in Nature how the chance of survival falls with time: about 92% at 15 minutes, 30% at 35 minutes, 27% at 90 minutes and 3% at 130 minutes.",
+   "why": "It proved that the first quarter of an hour decides most rescues, and made companion rescue the centre of avalanche training.",
+   "box": "motion",
+   "sources": [
+    18
+   ]
+  },
+  {
+   "year": 1999,
+   "date": "23 February 1999",
+   "era": "science",
+   "art": "building",
+   "key": false,
+   "title": "Galtür: a safe zone is hit",
+   "who": "The people and guests of Galtür",
+   "where": "Paznaun valley, Tyrol",
+   "country": "Austria",
+   "text": "After weeks of record snow and wind, a huge powder avalanche reached the village of Galtür in under a minute and hit houses in a zone mapped as safe. Thirty-one people died. Its speed was later reconstructed at about 290 km/h.",
+   "why": "It showed that hazard maps based on past avalanches can be too small. Models, zoning and defences were revised across the Alps.",
+   "box": "motion",
+   "sources": [
+    19
+   ]
+  },
+  {
+   "year": 2012,
+   "date": "7 April 2012",
+   "era": "today",
+   "art": "mountain",
+   "key": false,
+   "title": "Gayari",
+   "who": "Pakistani soldiers and civilians",
+   "where": "Gayari, near the Siachen glacier",
+   "country": "Pakistan",
+   "text": "An avalanche of snow, ice and rock buried a Pakistan Army base at about 3,775 m near the Siachen glacier, under some 20 m of debris. All 140 people there died: 129 soldiers and 11 civilians.",
+   "why": "It is one of the deadliest avalanches to strike a military post, on the world's highest battlefield.",
+   "box": "safe",
+   "sources": [
+    20
+   ]
+  },
+  {
+   "year": 2014,
+   "date": "18 April 2014",
+   "era": "today",
+   "art": "ice",
+   "key": false,
+   "title": "The Khumbu Icefall",
+   "who": "Nepali mountain guides",
+   "where": "Mount Everest",
+   "country": "Nepal",
+   "text": "A block of glacier ice weighing thousands of tonnes broke off above the Khumbu Icefall and swept the route where guides were fixing ropes for the climbing season. Sixteen Nepali guides died, most of them Sherpas.",
+   "why": "It turned attention to the people who take the greatest risks in Himalayan climbing, and to ice avalanches that no snow forecast can foresee.",
+   "box": "triggers",
+   "sources": [
+    21,
+    14
+   ]
+  },
+  {
+   "year": 2016,
+   "date": "3 February 2016",
+   "era": "today",
+   "art": "mountain",
+   "key": true,
+   "title": "Sonam post, Siachen",
+   "who": "Soldiers of the 19th battalion, Madras Regiment",
+   "where": "Siachen glacier, Ladakh",
+   "country": "India",
+   "text": "An avalanche of ice and snow buried an Indian Army post at about 19,600 feet on the Siachen glacier. Ten soldiers died. Rescuers dug for days in extreme cold and found Lance Naik Hanumanthappa Koppad alive after six days under about 35 feet of snow. He died in hospital on 11 February.",
+   "why": "It reminded the country what its soldiers face at the highest posts on Earth, where the mountain is the main danger.",
+   "box": "safe",
+   "sources": [
+    22
+   ]
+  },
+  {
+   "year": 2017,
+   "date": "25 January 2017",
+   "era": "today",
+   "art": "mountain",
+   "key": false,
+   "title": "Gurez",
+   "who": "Indian Army soldiers and villagers",
+   "where": "Gurez, Jammu and Kashmir",
+   "country": "India",
+   "text": "After days of heavy snowfall, several avalanches struck an Army camp, a patrol and homes in the Gurez sector. About 24 people died, 20 of them soldiers.",
+   "why": "Heavy snowfall is the oldest trigger of all. Forecasts for Gurez and other Kashmir sectors are part of every winter bulletin.",
+   "box": "triggers",
+   "sources": [
+    23
+   ]
+  },
+  {
+   "year": 2020,
+   "date": "15 November 2020",
+   "era": "today",
+   "art": "compass",
+   "key": true,
+   "title": "SASE becomes DGRE",
+   "who": "Defence Research and Development Organisation",
+   "where": "Chandigarh",
+   "country": "India",
+   "text": "DRDO merged the Snow and Avalanche Study Establishment with the Defence Terrain Research Laboratory in Delhi to form the Defence Geoinformatics Research Establishment. DGRE issues the daily Avalanche Warning Bulletin, district by district, on five danger levels, and works on landslides too.",
+   "why": "It is the name to look for today: India's avalanche forecasts come from DGRE.",
+   "box": "safe",
+   "sources": [
+    12,
+    31
+   ]
+  },
+  {
+   "year": 2021,
+   "date": "7 February 2021",
+   "era": "today",
+   "art": "earth",
+   "key": true,
+   "title": "Chamoli: rock and ice",
+   "who": "The people of the Rishiganga and Dhauliganga valleys",
+   "where": "Chamoli, Uttarakhand",
+   "country": "India",
+   "text": "About 27 million cubic metres of rock and glacier ice broke from Ronti Peak, fell about 1,800 m and turned into a flood of debris. It destroyed the Rishiganga hydropower project and badly damaged the Tapovan Vishnugad project downstream. More than 200 people were killed or are still missing, most of them workers at the two sites.",
+   "why": "Scientists traced the cause from satellite images within days. It was a rock-and-ice avalanche, a hazard that grows as high mountain slopes warm.",
+   "box": "safe",
+   "sources": [
+    25,
+    24
+   ]
+  },
+  {
+   "year": 2022,
+   "date": "4 October 2022",
+   "era": "today",
+   "art": "person",
+   "key": true,
+   "title": "Draupadi ka Danda",
+   "who": "Trainees and instructors of the Nehru Institute of Mountaineering",
+   "where": "Uttarkashi, Uttarakhand",
+   "country": "India",
+   "text": "A slab avalanche struck an advanced mountaineering course high on Draupadi ka Danda II after unusually heavy autumn snowfall, and swept climbers into a crevasse. Twenty-seven people died. Among them was the instructor Savita Kanswal, who had climbed Everest and Makalu within 16 days that May.",
+   "why": "It is the worst mountaineering accident recorded in India, and a reminder that new snow on a steep slope is dangerous however skilled the party.",
+   "box": "triggers",
+   "sources": [
+    26
+   ]
+  },
+  {
+   "year": 2024,
+   "date": "September 2024",
+   "era": "today",
+   "art": "heart",
+   "key": false,
+   "title": "The safe window is shorter than thought",
+   "who": "Simon Rauch, Hermann Brugger and colleagues",
+   "where": "Bolzano and Davos",
+   "country": "Italy and Switzerland",
+   "text": "A study of Swiss burials from 1981 to 2020 found that 91% of people dug out within 10 minutes survived, and 31% of those dug out between 10 and 30 minutes. Overall survival of buried people had risen from about 44% to about 54%, and the typical rescue time had fallen from 45 minutes to 25.",
+   "why": "Better transceivers, training and medical care are saving lives, but the time to act is nearer ten minutes than fifteen.",
+   "box": "motion",
+   "sources": [
+    27
+   ]
+  },
+  {
+   "year": 2025,
+   "date": "28 February 2025",
+   "era": "today",
+   "art": "road",
+   "key": false,
+   "title": "Mana",
+   "who": "Border Roads Organisation workers",
+   "where": "Mana, Chamoli, Uttarakhand",
+   "country": "India",
+   "text": "An avalanche buried the camp of road workers near Mana, the last village before the border, where 54 men were sleeping in containers. Rescue teams from the Army, the ITBP and disaster response forces brought out 46 alive over three days. Eight died.",
+   "why": "Road crews keep the high passes open through winter and are among the people most exposed. A bulletin had warned of avalanche danger in the district.",
+   "box": "safe",
+   "sources": [
+    28
+   ]
+  }
+ ],
+ "firsts": [
+  {
+   "label": "First scientific book on avalanches",
+   "value": "1881",
+   "who": "Johann Coaz, Switzerland"
+  },
+  {
+   "label": "First snow laboratory",
+   "value": "1936",
+   "who": "Weissfluhjoch, Davos, Switzerland"
+  },
+  {
+   "label": "First public bulletins from the Swiss institute",
+   "value": "1945",
+   "who": "SLF, Davos"
+  },
+  {
+   "label": "First effective avalanche transceiver",
+   "value": "1968",
+   "who": "John Lawton, USA (sold from 1971 as the Skadi)"
+  },
+  {
+   "label": "India's snow and avalanche laboratory",
+   "value": "1969",
+   "who": "SASE, Manali (DGRE since 2020)"
+  },
+  {
+   "label": "First avalanche airbag shown",
+   "value": "1985",
+   "who": "ABS, Peter Aschauer, Germany"
+  },
+  {
+   "label": "One five-level danger scale for Europe",
+   "value": "1993",
+   "who": "European Avalanche Warning Services"
+  }
+ ],
+ "people": [
+  {
+   "name": "Johann Coaz",
+   "life": "1822 – 1918",
+   "role": "Forester and topographer",
+   "from": "Switzerland",
+   "note": "Wrote the first scientific book on avalanches, mapped their paths and built early defences in start zones."
+  },
+  {
+   "name": "Gerald Seligman",
+   "life": "1886 – 1973",
+   "role": "Skier and glaciologist",
+   "from": "England",
+   "note": "Wrote Snow Structure and Ski Fields (1936), for decades the standard work in English."
+  },
+  {
+   "name": "Robert Haefeli",
+   "life": "1898 – 1978",
+   "role": "Engineer",
+   "from": "Switzerland",
+   "note": "A founder of snow mechanics at the Weissfluhjoch laboratory, measuring how snow settles, creeps and breaks."
+  },
+  {
+   "name": "André Roch",
+   "life": "1906 – 2002",
+   "role": "Mountaineer and avalanche expert",
+   "from": "Switzerland",
+   "note": "Led snow and avalanche mechanics at the SLF. The stability index, strength divided by stress, goes back to his work."
+  },
+  {
+   "name": "Adolf Voellmy",
+   "life": "active 1950s",
+   "role": "Engineer",
+   "from": "Switzerland",
+   "note": "Published the 1955 model of avalanche speed and force that hazard mapping still uses."
+  },
+  {
+   "name": "John Lawton",
+   "life": "active 1960s",
+   "role": "Engineer",
+   "from": "USA",
+   "note": "Invented the first effective avalanche transceiver, the Skadi, in 1968."
+  },
+  {
+   "name": "Hermann Brugger",
+   "life": "living",
+   "role": "Physician and mountain rescue doctor",
+   "from": "Italy (South Tyrol)",
+   "note": "Co-author of the 1994 survival curve and of the guidelines for treating buried people."
+  },
+  {
+   "name": "Hanumanthappa Koppad",
+   "life": "c. 1983 – 2016",
+   "role": "Lance Naik, Madras Regiment",
+   "from": "India",
+   "note": "Found alive six days after the 2016 Siachen avalanche. He died in hospital on 11 February 2016."
+  },
+  {
+   "name": "Savita Kanswal",
+   "life": "died 2022",
+   "role": "Mountaineer and instructor",
+   "from": "India",
+   "note": "The first Indian woman to climb Everest and Makalu within 16 days, in May 2022. She died in the Draupadi ka Danda avalanche that October."
+  }
+ ],
+ "series": [
+  {
+   "id": "survival",
+   "title": "Buried people in Switzerland who survived",
+   "unit": "%",
+   "log": false,
+   "after": "today",
+   "caption": "Share of buried people who survived, in Swiss records from 1981 to 2020: 43.5% up to 1990 and 53.5% since, as the typical rescue time fell from 45 to 25 minutes (Rauch et al. 2024). Two points only: the study compares two periods.",
+   "points": [
+    {
+     "year": 1990,
+     "value": 43.5,
+     "label": "Up to 1990: 43.5%"
+    },
+    {
+     "year": 2020,
+     "value": 53.5,
+     "label": "Since then, to 2020: 53.5%"
+    }
+   ]
+  }
+ ],
+ "facts": [
+  "In over 90% of the slab avalanches that bury winter-sports people, the victim or someone in their group triggered it (SLF).",
+  "About nine in ten buried people survive if dug out within 10 to 15 minutes. By 35 minutes it is about three in ten.",
+  "A dry slab avalanche can pass 100 km/h within seconds of breaking away.",
+  "Most slab avalanches start on slopes of 30 to 45 degrees: steep enough to slide, not too steep to hold snow.",
+  "Snow that changes temperature by more than about 1 °C every 10 cm turns into loose, sugary crystals called depth hoar."
+ ],
+ "sources": [
+  {
+   "title": "Hannibal's crossing of the Alps",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hannibal%27s_crossing_of_the_Alps"
+  },
+  {
+   "title": "Plurs (Piuro)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Plurs"
+  },
+  {
+   "title": "Johann Coaz",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Johann_Coaz"
+  },
+  {
+   "title": "1910 Wellington avalanche",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/1910_Wellington_avalanche"
+  },
+  {
+   "title": "1910 Rogers Pass avalanche",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/1910_Rogers_Pass_avalanche"
+  },
+  {
+   "title": "White Friday (1916)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/White_Friday_(1916)"
+  },
+  {
+   "title": "Beginnings of snow and avalanche research and the SLF",
+   "publisher": "WSL Institute for Snow and Avalanche Research SLF",
+   "url": "https://www.slf.ch/en/about-the-slf/portrait/history/beginnings-of-snow-and-avalanche-research-and-the-slf/"
+  },
+  {
+   "title": "Gerald Seligman",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gerald_Seligman"
+  },
+  {
+   "title": "Winter of Terror",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Winter_of_Terror"
+  },
+  {
+   "title": "Über die Zerstörungskraft von Lawinen (A. Voellmy, 1955)",
+   "publisher": "Schweizerische Bauzeitung, via e-periodica (ETH Library)",
+   "url": "https://www.e-periodica.ch/cntmng?pid=sbz-002%3A1955%3A73%3A%3A218"
+  },
+  {
+   "title": "Avalanche transceiver",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Avalanche_transceiver"
+  },
+  {
+   "title": "Snow and Avalanche Study Establishment",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Snow_and_Avalanche_Study_Establishment"
+  },
+  {
+   "title": "Defence Geoinformatics Research Establishment: historical background",
+   "publisher": "Defence Research and Development Organisation (DRDO)",
+   "url": "https://drdo.gov.in/drdo/index.php/labs-establishment/historical-background/defence-geoinformatics-research-establishment-dgre"
+  },
+  {
+   "title": "1970 Ancash earthquake",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/1970_Ancash_earthquake"
+  },
+  {
+   "title": "List of avalanches by death toll",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/List_of_avalanches_by_death_toll"
+  },
+  {
+   "title": "About ABS: our history",
+   "publisher": "ABS Airbag",
+   "url": "https://abs-airbag.us/pages/about-abs-history"
+  },
+  {
+   "title": "Avalanche airbag",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Avalanche_airbag"
+  },
+  {
+   "title": "Avalanche danger scale",
+   "publisher": "European Avalanche Warning Services (EAWS)",
+   "url": "https://www.avalanches.org/standards/avalanche-danger-scale/"
+  },
+  {
+   "title": "Avalanche survival chances (Falk, Brugger & Adler-Kastner, 1994)",
+   "publisher": "Nature",
+   "url": "https://www.nature.com/articles/368021a0"
+  },
+  {
+   "title": "1999 Galtür avalanche",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/1999_Galt%C3%BCr_avalanche"
+  },
+  {
+   "title": "2012 Gayari Sector avalanche",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/2012_Gayari_Sector_avalanche"
+  },
+  {
+   "title": "2014 Mount Everest ice avalanche",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/2014_Mount_Everest_ice_avalanche"
+  },
+  {
+   "title": "2016 Siachen Glacier avalanche",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/2016_Siachen_Glacier_avalanche"
+  },
+  {
+   "title": "2017 Gurez sector avalanche",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/2017_Gurez_sector_avalanche"
+  },
+  {
+   "title": "2021 Uttarakhand flood",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/2021_Uttarakhand_flood"
+  },
+  {
+   "title": "A massive rock and ice avalanche caused the 2021 disaster at Chamoli, Indian Himalaya (Shugar et al., 2021)",
+   "publisher": "Science",
+   "url": "https://www.science.org/doi/10.1126/science.abh4455"
+  },
+  {
+   "title": "2022 Uttarakhand avalanche",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/2022_Uttarakhand_avalanche"
+  },
+  {
+   "title": "Avalanche Survival Rates in Switzerland, 1981-2020 (Rauch et al., 2024)",
+   "publisher": "JAMA Network Open",
+   "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2824053"
+  },
+  {
+   "title": "2025 Uttarakhand avalanche",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/2025_Uttarakhand_avalanche"
+  },
+  {
+   "title": "Avalanche",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Avalanche"
+  },
+  {
+   "title": "Caution: avalanches! Tips on avalanche prevention",
+   "publisher": "WSL Institute for Snow and Avalanche Research SLF",
+   "url": "https://www.slf.ch/en/news/caution-avalanches-tips-on-avalanche-prevention/"
+  },
+  {
+   "title": "Avalanche Warning Bulletin",
+   "publisher": "Defence Geoinformatics Research Establishment, DRDO",
+   "url": "https://drdo.gov.in/drdo/sites/default/files/avalanche_warning_bulletin/DGRE_AWB_06-Oct-2025.pdf"
+  },
+  {
+   "title": "National Disaster Management Guidelines: Management of Landslides and Snow Avalanches",
+   "publisher": "National Disaster Management Authority, Government of India",
+   "url": "https://nidm.gov.in/pdf/guidelines/new/landslidessnowavalanches.pdf"
+  },
+  {
+   "title": "Soon, avalanche protection structures near Atal Tunnel",
+   "publisher": "The Tribune",
+   "url": "https://www.tribuneindia.com/news/himachal/soon-avalanche-protection-structures-near-atal-tunnel-274616"
+  }
+ ]
+}

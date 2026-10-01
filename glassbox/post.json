@@ -1,0 +1,126 @@
+{
+  "slug": "avalancheclear",
+  "box": 107,
+  "question": "How do avalanches happen?",
+  "url": "https://glassbox.how/e/avalancheclear/",
+  "app": "https://glassbox.how/avalancheclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From armies lost in Alpine snow to a daily bulletin for the Himalaya: how people learned why snow slides, and how to live below it.\n\n218 BCE: Hannibal's army meets the Alpine snow\n1881: The first book on avalanches\n1916: White Friday on the Alpine front\n1936: A snow laboratory on the Weissfluhjoch\n1951: The Winter of Terror\n1968: A radio beacon for buried people\n\nThe full story, with 29 moments, sources and charts: glassbox.how/e/avalancheclear/history (link in bio)\n\nThen play with how it works: glassbox.how/avalancheclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #avalanche #snow #snowpack #weaklayer #slabavalanche #depthhoar #history",
+      "youtube": {
+        "title": "The history of understanding avalanches in 45 seconds #shorts",
+        "description": "From armies lost in Alpine snow to a daily bulletin for the Himalaya: how people learned why snow slides, and how to live below it.\n\n218 BCE · Hannibal's army meets the Alpine snow (Hannibal and the Carthaginian army)\n1881 · The first book on avalanches (Johann Coaz)\n1916 · White Friday on the Alpine front (Austro-Hungarian and Italian soldiers)\n1936 · A snow laboratory on the Weissfluhjoch (The Swiss Avalanche Research Commission; Robert Haefeli and colleagues)\n1951 · The Winter of Terror (The people of the Austrian and Swiss Alps)\n1968 · A radio beacon for buried people (John Lawton)\n\n▶ Full history: https://glassbox.how/e/avalancheclear/history/\n▶ Play with it: https://glassbox.how/e/avalancheclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How do avalanches happen?\n\nA snowy slope is a stack of layers, and one weak layer can let the whole slope go. Dig a snow pit, turn round grains into sugar with a cold night, load a slab until a crack races across it, release an avalanche at over 100 km/h, and learn why the first fifteen minutes decide a rescue.\n\n→ A snowy slope is not one blanket. Every storm of the winter leaves its own layer.\n→ Dig a pit and you find the danger: a stiff slab resting on a thin, weak layer.\n→ Thin snow on a bitterly cold night: vapour rises through it and turns round grains into loose sugar.\n→ The slab’s weight pulls along the slope. Only the weak layer’s strength holds it back.\n→ When the pull wins, a crack races through the weak layer and the whole slab breaks away.\n\nPlay with it yourself. It's free and open source: glassbox.how/avalancheclear (link in bio)\n\nBox No. 107 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #avalanche #snow #snowpack #weaklayer #slabavalanche #depthhoar #surfacehoar #slopestability #powdercloud",
+    "carousel": "Swipe through: How do avalanches happen?\n\nA snowy slope is a stack of layers, and one weak layer can let the whole slope go. Dig a snow pit, turn round grains into sugar with a cold night, load a slab until a crack races across it, release an avalanche at over 100 km/h, and learn why the first fifteen minutes decide a rescue.\n\nSave this for later, then play with the interactive version at glassbox.how/avalancheclear (link in bio).\n\nBox No. 107 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #avalanche #snow #snowpack #weaklayer #slabavalanche #depthhoar",
+    "youtube": {
+      "title": "How do avalanches happen? #shorts",
+      "description": "A snowy slope is a stack of layers, and one weak layer can let the whole slope go. Dig a snow pit, turn round grains into sugar with a cold night, load a slab until a crack races across it, release an avalanche at over 100 km/h, and learn why the first fifteen minutes decide a rescue.\n\n▶ Play with it: https://glassbox.how/e/avalancheclear/\n⌘ Source code (MIT): https://github.com/bdeeps/avalancheclear\n\nBox No. 107 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How do avalanches happen? (interactive explainer)",
+      "description": "A snowy slope is a stack of layers, and one weak layer can let the whole slope go. Dig a snow pit, turn round grains into sugar with a cold night, load a slab until a crack races across it, release an avalanche at over 100 km/h, and learn why the first fifteen minutes decide a rescue.\n\n▶ Play with the interactive version: https://glassbox.how/e/avalancheclear/\n⌘ Source code (MIT): https://github.com/bdeeps/avalancheclear\n\nIn this video:\n• A mountain of layers. A snowpack is a stack of layers, one from every storm, each changed by wind, sun and cold.\n• The weak layer. The ground under snow stays near 0 °C and the surface follows the air.\n• The slab lets go. The slab's weight pulls along the slope with a stress of mass × gravity × sine of the angle.\n• Triggers. A trigger adds load or removes strength: heavy snowfall, wind piling snow on the lee side of a ridge, rapid warming or rain, a cornice fall, a person, or an explosive fired on purpose.\n• In motion. Loose-snow avalanches fan out from a point, slabs break as a plate, wet avalanches are slow and dense.\n• The Himalaya, and staying safe. India's avalanche country is the high Himalaya and Karakoram, from Siachen and Gurez to Lahaul, Uttarakhand and Sikkim.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How do avalanches happen?\n\nA snowy slope is a stack of layers, and one weak layer can let the whole slope go.\n\nPlay with it: https://glassbox.how/e/avalancheclear/",
+    "linkedin": "How do avalanches happen?\n\nA snowy slope is a stack of layers, and one weak layer can let the whole slope go. Dig a snow pit, turn round grains into sugar with a cold night, load a slab until a crack races across it, release an avalanche at over 100 km/h, and learn why the first fifteen minutes decide a rescue.\n\n1. A mountain of layers\n2. The weak layer\n3. The slab lets go\n4. Triggers\n5. In motion\n6. The Himalaya, and staying safe\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 107 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/avalancheclear/\nCode: https://github.com/bdeeps/avalancheclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-02T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-01T19:18:52.698Z"
+}

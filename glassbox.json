@@ -1,0 +1,112 @@
+{
+  "slug": "avalancheclear",
+  "box": 107,
+  "date": "2026-10-06",
+  "title": "AvalancheClear",
+  "question": "How do avalanches happen?",
+  "hook": "A snowy slope is a stack of layers, and one weak layer can let the whole slope go. Dig a snow pit, turn round grains into sugar with a cold night, load a slab until a crack races across it, release an avalanche at over 100 km/h, and learn why the first fifteen minutes decide a rescue.",
+  "thumbText": "HOW AN AVALANCHE STARTS",
+  "field": "nature",
+  "minutes": 16,
+  "tags": [
+    "avalanche",
+    "snow",
+    "snowpack",
+    "weak layer",
+    "slab avalanche",
+    "depth hoar",
+    "surface hoar",
+    "slope stability",
+    "powder cloud",
+    "avalanche rescue",
+    "Himalaya",
+    "Siachen",
+    "DGRE",
+    "disaster safety",
+    "nature",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A mountain of layers",
+      "text": "A snowpack is a stack of layers, one from every storm, each changed by wind, sun and cold. Some are strong and some are weak. The dangerous arrangement is a stiff slab resting on a weak layer, on a start zone of 30 to 45 degrees, above a track and a runout zone where the snow ends up."
+    },
+    {
+      "title": "The weak layer",
+      "text": "The ground under snow stays near 0 °C and the surface follows the air. When the temperature changes by more than about 10 °C per metre of snow, vapour rebuilds round grains into angular facets and sugary depth hoar that barely bond. Frost feathers (surface hoar) and icy crusts become weak layers once new snow buries them."
+    },
+    {
+      "title": "The slab lets go",
+      "text": "The slab's weight pulls along the slope with a stress of mass × gravity × sine of the angle. The weak layer resists with its strength. When strength divided by stress falls below 1, a crack runs through the weak layer at tens of metres a second and the slab breaks away. Under about 30° it cannot slide; over about 45° snow sluffs off before a slab builds."
+    },
+    {
+      "title": "Triggers",
+      "text": "A trigger adds load or removes strength: heavy snowfall, wind piling snow on the lee side of a ridge, rapid warming or rain, a cornice fall, a person, or an explosive fired on purpose. In over 90% of the slab avalanches that bury winter-sports people, the victim or someone in the group set it off (SLF, Switzerland)."
+    },
+    {
+      "title": "In motion",
+      "text": "Loose-snow avalanches fan out from a point, slabs break as a plate, wet avalanches are slow and dense. A dry slab can pass 100 km/h in seconds and large powder avalanches go far faster. Impact grows with the square of the speed. About nine in ten buried people survive if dug out within 10 to 15 minutes, and about three in ten by 35 minutes."
+    },
+    {
+      "title": "The Himalaya, and staying safe",
+      "text": "India's avalanche country is the high Himalaya and Karakoram, from Siachen and Gurez to Lahaul, Uttarakhand and Sikkim. DGRE (formerly SASE) issues a daily Avalanche Warning Bulletin on five danger levels. Read it, stay off steep slopes after heavy snow, wind or thaw, cross one at a time, never go alone, and if someone is buried, search and dig at once. Emergency 112, NDMA 1078."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Snowpack",
+      "def": "All the snow on the ground, built up in layers through the winter."
+    },
+    {
+      "term": "Slab",
+      "def": "A stiff, cohesive layer of snow that can break away in one piece."
+    },
+    {
+      "term": "Weak layer",
+      "def": "A layer of poorly bonded grains, such as depth hoar, facets or buried surface hoar, that a slab can shear off along."
+    },
+    {
+      "term": "Temperature gradient",
+      "def": "How fast temperature changes through the snow. Above about 10 °C per metre, grains turn into weak facets."
+    },
+    {
+      "term": "Stability index",
+      "def": "The weak layer's shear strength divided by the pull of the slab along the slope. Below 1, the slab releases."
+    },
+    {
+      "term": "Start zone, track, runout",
+      "def": "Where an avalanche breaks away (usually 30 to 45°), the path it follows, and the gentler ground where it stops."
+    },
+    {
+      "term": "Lee slope",
+      "def": "The sheltered side of a ridge, where wind drops the snow it carries and builds wind slabs and cornices."
+    },
+    {
+      "term": "Powder cloud",
+      "def": "Fine snow thrown into the air by a fast dry avalanche, travelling ahead of the dense flow."
+    },
+    {
+      "term": "Companion rescue",
+      "def": "Search and digging by the people on the spot with transceiver, probe and shovel: the rescue that arrives in time."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "avalancheclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
